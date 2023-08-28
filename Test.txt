@@ -1,2 +1,3 @@
 Created a text.txt file
 text.txt has been modified
+File modifed in Remote repository
